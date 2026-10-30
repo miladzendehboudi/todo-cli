@@ -41,6 +41,7 @@ Task added successfully!
 
 ## Project Structure
 todo-cli/
+
 │── main.py  
 │── tasks.txt  
 │── README.md
